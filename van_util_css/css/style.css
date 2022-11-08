@@ -7,7 +7,7 @@
 /* ----------------------- */
 /*          UTILS          */
 /* ----------------------- */
-/* Layout */
+/* Display */
 .flex {
     display: flex;
 }
@@ -18,4 +18,13 @@
 
 .none {
     display: none;
+}
+
+/* Layout */
+.flex-col {
+    flex-direction: column;
+}
+
+.flex-row {
+    flex-direction: row;
 }
