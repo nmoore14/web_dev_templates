@@ -1,0 +1,21 @@
+/* ROOT Variables */
+
+/* ----------------------- */
+/*          Base           */
+/* ----------------------- */
+
+/* ----------------------- */
+/*          UTILS          */
+/* ----------------------- */
+/* Layout */
+.flex {
+    display: flex;
+}
+
+.block {
+    display: block;
+}
+
+.none {
+    display: none;
+}
